@@ -1,0 +1,26 @@
+{
+  "name": "bookmark-sync-site",
+  "version": "0.0.1",
+  "description": "Sync service endpoint for the users bookmarks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidsakhadeo/bookmark-sync-site.git"
+  },
+  "keywords": [
+    "bookmarks"
+  ],
+  "author": "Siddharth Sakhadeo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/sidsakhadeo/bookmark-sync-site/issues"
+  },
+  "homepage": "https://github.com/sidsakhadeo/bookmark-sync-site"
+}
